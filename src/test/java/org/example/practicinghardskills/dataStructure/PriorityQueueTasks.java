@@ -1,4 +1,4 @@
-package org.example.practicinghradskills.dataStructure;
+package org.example.practicinghardskills.dataStructure;
 
 import java.util.PriorityQueue;
 

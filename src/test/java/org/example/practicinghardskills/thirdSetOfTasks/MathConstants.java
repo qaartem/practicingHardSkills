@@ -1,4 +1,4 @@
-package org.example.practicinghradskills.thirdSetOfTasks;
+package org.example.practicinghardskills.thirdSetOfTasks;
 
 public class MathConstants {
     private static final double PI = 3.14159;

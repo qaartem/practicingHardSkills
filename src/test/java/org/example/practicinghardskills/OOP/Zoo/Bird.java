@@ -1,4 +1,4 @@
-package org.example.practicinghradskills.OOP.Zoo;
+package org.example.practicinghardskills.OOP.Zoo;
 
 public class Bird extends Animal{
 

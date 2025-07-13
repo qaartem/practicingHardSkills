@@ -1,4 +1,4 @@
-package org.example.practicinghradskills.fourthSetOfTasks;
+package org.example.practicinghardskills.fourthSetOfTasks;
 
 public class Calculator {
 

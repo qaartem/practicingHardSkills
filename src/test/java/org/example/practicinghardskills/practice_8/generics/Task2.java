@@ -1,4 +1,4 @@
-package org.example.practicinghradskills.practice_8.generics;
+package org.example.practicinghardskills.practice_8.generics;
 
 public class Task2 {
     public static <T> void printArray(T[] array){

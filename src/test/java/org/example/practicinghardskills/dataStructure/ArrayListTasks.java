@@ -1,4 +1,4 @@
-package org.example.practicinghradskills.dataStructure;
+package org.example.practicinghardskills.dataStructure;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -15,7 +15,7 @@ public class ArrayListTasks {
         // Задача 2
         for(int number : nums){
             if (number % 2 == 0){
-                System.out.println(number);
+                System.out.println("Задача 2: " + number);
             }
         }
 
@@ -38,7 +38,7 @@ public class ArrayListTasks {
         System.out.println(sum);
 
         // Задача 5
-        System.out.println(Collections.max(nums));
+        System.out.println("Задача 5: " + Collections.max(nums));
 
     }
 }

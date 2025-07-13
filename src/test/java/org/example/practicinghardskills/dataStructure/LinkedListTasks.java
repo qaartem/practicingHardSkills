@@ -1,9 +1,7 @@
-package org.example.practicinghradskills.dataStructure;
+package org.example.practicinghardskills.dataStructure;
 
 import java.util.LinkedList;
 import java.util.ListIterator;
-import java.util.Map;
-import java.util.TreeMap;
 
 public class LinkedListTasks {
     public static void main(String[] args) {

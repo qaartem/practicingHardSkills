@@ -1,10 +1,8 @@
-package org.example.practicinghradskills.practice_8;
+package org.example.practicinghardskills.practice_8;
 
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.util.Map;
 import java.util.Scanner;
-import java.util.TreeMap;
 
 public class ExceptionsTasks {
     public static void main(String[] args) throws InvalidAgeException, InvalidEmailException {

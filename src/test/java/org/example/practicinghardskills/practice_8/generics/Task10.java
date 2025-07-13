@@ -1,4 +1,4 @@
-package org.example.practicinghradskills.practice_8.generics;
+package org.example.practicinghardskills.practice_8.generics;
 
 import java.util.Map;
 

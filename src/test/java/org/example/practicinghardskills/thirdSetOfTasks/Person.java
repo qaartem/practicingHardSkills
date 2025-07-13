@@ -1,4 +1,4 @@
-package org.example.practicinghradskills.thirdSetOfTasks;
+package org.example.practicinghardskills.thirdSetOfTasks;
 
 public class Person {
     private String firstName;

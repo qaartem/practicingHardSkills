@@ -1,4 +1,4 @@
-package org.example.practicinghradskills.practice_8.generics;
+package org.example.practicinghardskills.practice_8.generics;
 
 public class Task3 {
     public static void main(String[] args) {

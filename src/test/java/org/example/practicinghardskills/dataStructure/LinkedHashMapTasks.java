@@ -1,9 +1,7 @@
-package org.example.practicinghradskills.dataStructure;
+package org.example.practicinghardskills.dataStructure;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
-
-import static javax.swing.UIManager.put;
 
 public class LinkedHashMapTasks {
     public static void main(String[] args) {

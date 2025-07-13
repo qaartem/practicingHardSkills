@@ -1,4 +1,4 @@
-package org.example.practicinghradskills.OOP.Zoo;
+package org.example.practicinghardskills.OOP.Zoo;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package org.example.practicinghradskills.nestedLoops;
+package org.example.practicinghardskills.nestedLoops;
 
 public class nestedLoops {
     public static void main(String[] args) {

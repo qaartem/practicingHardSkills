@@ -16,14 +16,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
 @DisplayName("Class StringProcessor, method reverse")
-public class StringProcessorTest {
-
-    private StringProcessor stringProcessor;
-
-    @BeforeEach
-    public void setupTest() {
-        stringProcessor = new StringProcessor();
-    }
+public class ReverseStringTest extends StringProcessorTest{
     /**
      * Тесты для переворота строки:
      * happy path: "sasha" -> "ahsas"

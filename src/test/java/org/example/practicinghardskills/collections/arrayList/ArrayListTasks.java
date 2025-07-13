@@ -1,4 +1,4 @@
-package org.example.practicinghardskills.collections;
+package org.example.practicinghardskills.collections.arrayList;
 
 import java.util.ArrayList;
 import java.util.Arrays;

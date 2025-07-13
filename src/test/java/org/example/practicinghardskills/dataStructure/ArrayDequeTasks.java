@@ -1,8 +1,6 @@
-package org.example.practicinghradskills.dataStructure;
+package org.example.practicinghardskills.dataStructure;
 
 import java.util.ArrayDeque;
-import java.util.Map;
-import java.util.PriorityQueue;
 
 public class ArrayDequeTasks {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package org.example.practicinghradskills.thirdSetOfTasks;
+package org.example.practicinghardskills.thirdSetOfTasks;
 
 public class Company {
     private static String companyName;

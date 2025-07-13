@@ -1,10 +1,7 @@
-package org.example.practicinghradskills.dataStructure;
+package org.example.practicinghardskills.dataStructure;
 
-import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.TreeMap;
-
-import static javax.swing.UIManager.put;
 
 public class TreeMapTasks {
     public static void main(String[] args) {

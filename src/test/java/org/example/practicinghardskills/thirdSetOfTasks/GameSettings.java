@@ -1,4 +1,4 @@
-package org.example.practicinghradskills.thirdSetOfTasks;
+package org.example.practicinghardskills.thirdSetOfTasks;
 
 public class GameSettings {
     private static int maxPlayers;

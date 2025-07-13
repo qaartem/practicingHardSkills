@@ -1,4 +1,4 @@
-package org.example.practicinghradskills.practice_9.funcinterfaces;
+package org.example.practicinghardskills.practice_9.funcinterfaces;
 
 @FunctionalInterface
 interface MathOperation {

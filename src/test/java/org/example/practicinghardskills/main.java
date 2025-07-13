@@ -1,9 +1,8 @@
-package org.example.practicinghradskills;
+package org.example.practicinghardskills;
 
-import org.example.practicinghradskills.constructors.*;
-import org.example.practicinghradskills.fourthSetOfTasks.Planet;
-import org.example.practicinghradskills.thirdSetOfTasks.*;
-import org.openqa.selenium.json.JsonOutput;
+import org.example.practicinghardskills.constructors.*;
+import org.example.practicinghardskills.fourthSetOfTasks.Planet;
+import org.example.practicinghardskills.thirdSetOfTasks.*;
 
 import java.util.Scanner;
 
@@ -69,12 +68,12 @@ public class main {
         laptop.setPrice(70000);
         laptop.printInfo();
 
-        Company employee1 = new Company(1, "Tom");
-        Company employee2 = new Company(2, "Bob");
-        System.out.println("Before: " + Company.getCompanyName());
-        Company.setCompanyName("New Company");
-        System.out.println("After: " + Company.getCompanyName());
-        Company.printCompanyName();
+//        Company2 employee1 = new Company2(1, "Tom");
+//        Company2 employee2 = new Company2(2, "Bob");
+//        System.out.println("Before: " + Company2.getCompanyName());
+//        Company2.setCompanyName("New Company");
+//        System.out.println("After: " + Company2.getCompanyName());
+//        Company2.printCompanyName();
 
         System.out.println(MathConstants.calculateArea(6));
         System.out.println(MathConstants.calculateCircumference(6));

@@ -1,4 +1,4 @@
-package org.example.practicinghradskills.constructors;
+package org.example.practicinghardskills.constructors;
 
 public class Laptop {
     private String brand;
