@@ -1,16 +1,18 @@
 package org.example.practicinghardskills.OOP.Zoo;
 
-public class Bird extends Animal{
+public class Bird extends Animal {
 
     public Bird(String name) {
         super(name);
     }
 
-    public void sound(){
+    @Override
+    public void sound() {
         System.out.println("Bird: Chirikaet");
     }
 
-    public void move(){
+    @Override
+    public void move() {
         System.out.println("Bird: Fly");
     }
 }
