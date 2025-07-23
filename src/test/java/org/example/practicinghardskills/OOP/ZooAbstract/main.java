@@ -1,4 +1,4 @@
-package org.example.practicinghardskills.OOP.Zoo;
+package org.example.practicinghardskills.OOP.ZooAbstract;
 
 public class main {
     public static void main(String[] args) {
@@ -8,5 +8,6 @@ public class main {
         zoo.addAnimal(elephant);
         zoo.addAnimal(bird);
         zoo.showAll();
+
     }
 }
