@@ -1,4 +1,4 @@
-package org.example.practicinghardskills.OOP.Zoo;
+package org.example.practicinghardskills.OOP.ZooAbstract;
 
 public class Elephant extends Animal {
     public Elephant(String name) {
