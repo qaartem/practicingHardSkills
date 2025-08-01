@@ -11,15 +11,22 @@ public class HashMapTasks {
         pairs.put("3name", 3);
         pairs.put("4name", 4);
         pairs.put("5name", 5);
+        printMap(pairs);
+        checkKey(pairs, "4name");
+    }
 
-        for (Map.Entry<String, Integer> pair : pairs.entrySet()) {
-            System.out.println(pair.getKey() + " is " + pair.getValue());
+    private static void printMap(Map<String, Integer> map) {
+        System.out.println("Printing map entries:");
+        for (Map.Entry<String, Integer> entry : map.entrySet()) {
+            System.out.println(entry.getKey() + " is " + entry.getValue());
         }
+    }
 
-        if (pairs.containsKey("4name")) {
-            System.out.println("Найдено");
+    private static void checkKey(Map<String, Integer> map, String key) {
+        if (map.containsKey(key)) {
+            System.out.println("Key '" + key + "' найдено");
         } else {
-            System.out.println("Не найдено");
+            System.out.println("Key '" + key + "' не найдено");
         }
     }
 
