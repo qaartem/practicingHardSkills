@@ -14,6 +14,9 @@ public class DivisionTask {
     }
 
     public static int divide(int x, int y) {
+        if (y == 0) {
+            throw new IllegalArgumentException("Divider must not be 0");
+        }
         return x / y;
     }
 
