@@ -6,7 +6,7 @@ import java.util.Arrays;
 public class ArrayListTasks {
     public static void main(String[] args) {
         ArrayList<Integer> nums = new ArrayList<>(Arrays.asList(1, 2, 3, 4, 5));
-        nums.addLast(6);
+        nums.add(6);
         System.out.println(nums);
 
         for (int number : nums) {
