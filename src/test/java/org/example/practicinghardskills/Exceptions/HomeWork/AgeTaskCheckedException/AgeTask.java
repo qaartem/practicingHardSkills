@@ -10,6 +10,8 @@ public class AgeTask {
         }
     }
 
+    // Valid human age is expected to be in range 0–150.
+    // This check prevents unexpected input like -5 or 999.
     public static void ageValidation(int age) throws InvalidAgeException {
         if (age < 0 || age > 150) {
             throw new InvalidAgeException("Age should be from 0 to 150");
