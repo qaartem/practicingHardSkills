@@ -1,19 +1,18 @@
 package org.example.practicinghardskills.collections.arrayList;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 
 
-public class ArrayListTasks {
+public class ArrayList {
     public static void main(String[] args) {
         // Task 1
-        ArrayList<Integer> nums = new ArrayList<>(Arrays.asList(1,2,3,4,5));
+        java.util.ArrayList<Integer> nums = new java.util.ArrayList<>(Arrays.asList(1,2,3,4,5));
         nums.add(6);
         System.out.println(nums);
 
         // Task 2
-        ArrayList<Integer> evenNums = new ArrayList<>(Arrays.asList(1,2,3,4,5,6,7,8));
+        java.util.ArrayList<Integer> evenNums = new java.util.ArrayList<>(Arrays.asList(1,2,3,4,5,6,7,8));
             for (int number : evenNums) {
                 if (number % 2 == 0) {
                     System.out.println(number);
@@ -21,7 +20,7 @@ public class ArrayListTasks {
         }
 
         // Task 3
-        ArrayList<String> strings = new ArrayList<>(Arrays.asList("a","b","c","theLongest"));
+        java.util.ArrayList<String> strings = new java.util.ArrayList<>(Arrays.asList("a","b","c","theLongest"));
         String longest = "";
         for (String string : strings) {
             if (string.length() > longest.length()) {

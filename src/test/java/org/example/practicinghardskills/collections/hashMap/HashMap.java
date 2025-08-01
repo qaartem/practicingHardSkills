@@ -1,14 +1,13 @@
 package org.example.practicinghardskills.collections.hashMap;
 
-import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
 
-public class HashMapTasks {
+public class HashMap {
     public static void main(String[] args) {
         // Task 1
-        HashMap<String, Integer> map = new HashMap<>();
+        java.util.HashMap<String, Integer> map = new java.util.HashMap<>();
         System.out.println("Создан пустой HashMap: " + map);
         // 2️⃣ Добавление элементов
         map.put("Artem", 1);
