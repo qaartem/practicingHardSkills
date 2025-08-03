@@ -1,4 +1,4 @@
-package org.example.practicinghardskills.LiveCoding;
+package org.example.practicinghardskills.LiveCoding.SecondLargest;
 
 import java.util.Arrays;
 import java.util.Comparator;
